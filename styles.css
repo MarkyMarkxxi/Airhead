@@ -1,0 +1,256 @@
+.container h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #353531;
+    margin-left: 5px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #353531;
+    margin-left: 5px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #353531;
+    margin-left: 5px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: #353531;
+    margin-left: 5px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #353531;
+    margin-left: 5px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    color: #353531;
+    font-weight: 300;
+}
+
+header {
+    background-color: #353531;
+    letter-spacing: 3px;
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+    text-align: left;
+    padding: 60px;
+    position: sticky;
+    top: 1px;
+    z-index: 1;
+}
+
+#subheader {
+    display: inline;
+    font-size: 20px;
+}
+
+.colors-container {
+    display: flex;
+    background-color: lightgray;
+    padding: 20px;
+    margin: 0% 20%;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    width: 60%;
+    box-shadow: 5px 5px 5px silver;
+}
+
+.colors-panel {
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    min-height: 175px;
+}
+
+.white {
+    background-color: #ffffff;
+    transition: .25s;
+}
+
+.white:hover {
+    transform: scale(1.1);
+}
+
+.white p {
+    color: black;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.amethyst {
+    background-color: #945FBF;
+    transition: .25s;
+}
+
+.amethyst:hover {
+    transform: scale(1.1);
+}
+
+.amethyst p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.blue {
+    background-color: #130FFA;
+    transition: .25s;
+}
+
+.blue:hover {
+    transform: scale(1.1);
+}
+
+.blue p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.gray {
+    background-color: #8D887C;
+    transition: .25s;
+}
+
+.gray:hover {
+    transform: scale(1.1);
+}
+
+.gray p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.black {
+    background-color: #353531;
+    transition: .25s;
+}
+
+.black:hover {
+    transform: scale(1.1);
+}
+
+.black p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.green {
+    background-color: #32de8a;
+    top: 60px;
+    line-height: 3px;
+    transition: .25s;
+}
+
+.green:hover {
+    transform: scale(1.1);
+}
+
+.green p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.amber {
+    background-color: #e6af2e;
+    transition: .25s;
+}
+
+.amber:hover {
+    transform: scale(1.1);
+}
+
+.amber p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.red {
+    background-color: #ef3e36;
+    transition: .25s;
+}
+
+.red:hover {
+    transform: scale(1.1);
+}
+
+.red p {
+    color: white;
+    position: relative;
+    top: 60px;
+    line-height: 3px;
+}
+
+.m-normal {
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
+}
+
+.m-bold {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
+}
+
+.m-italic {
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    padding-left: 15px;
+}
+
+.r-normal {
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 15px;
+}
+
+.r-bold {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 15px;
+}
+
+.r-italic {
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    padding-left: 15px;
+}
+
+footer {
+    background-color: #353531;
+    letter-spacing: 3px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+footer p {
+    color: whitesmoke;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
